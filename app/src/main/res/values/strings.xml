@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Basic Zodiac</string>
+    <string name="kindly_select_your_birthday">Kindly Select Your Birthday</string>
+    <string name="select_here">Select Here</string>
+    <string name="get_basic_reading">Get Basic Reading</string>
+    <string name="ok">OK</string>
+    <string name="zodiac_image">zodiac image</string>
+</resources>
